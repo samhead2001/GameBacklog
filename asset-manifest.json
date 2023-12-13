@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/samhead2001/GameBacklog/static/css/main.f855e6bc.css",
+    "main.js": "/samhead2001/GameBacklog/static/js/main.2eb1973b.js",
+    "static/js/787.e67b6404.chunk.js": "/samhead2001/GameBacklog/static/js/787.e67b6404.chunk.js",
+    "static/media/logo.svg": "/samhead2001/GameBacklog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/samhead2001/GameBacklog/index.html",
+    "main.f855e6bc.css.map": "/samhead2001/GameBacklog/static/css/main.f855e6bc.css.map",
+    "main.2eb1973b.js.map": "/samhead2001/GameBacklog/static/js/main.2eb1973b.js.map",
+    "787.e67b6404.chunk.js.map": "/samhead2001/GameBacklog/static/js/787.e67b6404.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2eb1973b.js"
+  ]
+}
